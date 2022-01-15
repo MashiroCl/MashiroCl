@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 -->
 
 I love creating interesting and cool things with code. And I love games and animations, also I cook a lot.
-<img src="https://github.com/MashiroCl/MashiroCl/Images/fixbug.gif" width="700">
+<img src="https://github.com/MashiroCl/MashiroCl/Images/fixbug.gif" width="100">
+<img src="https://github.com/MashiroCl/MashiroCl/Images/cook.gif" width="100">
+<img src="https://github.com/MashiroCl/MashiroCl/Images/eat.gif" width="100">
 
 
 
@@ -32,8 +34,8 @@ I am a Master student in Tokyo Institute of Technology and I research mainly on 
 </p>
 
 I love games, you may find me on:
-<a href="https://steamcommunity.com/profiles/76561198336093131" target="blank"><img align="center" src="https://github.com/MashiroCl/MashiroCl/Images/games/steam.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/MashiroCl/MashiroCl/Images/games/Apex.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/MashiroCl/MashiroCl/Images/games/RainbowSixSiege.png" height="30" /></a>
+<a href="https://steamcommunity.com/profiles/76561198336093131" target="blank"><img align="center" src="https://github.com/MashiroCl/MashiroCl/Images/games/steam.jpeg" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/MashiroCl/MashiroCl/Images/games/apex.jpeg" height="30" /></a> 
+<a href="" target="blank"><img align="center" src="https://github.com/MashiroCl/MashiroCl/Images/games/rainbowsix.jpeg" height="30" /></a>
 
 
