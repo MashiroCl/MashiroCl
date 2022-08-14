@@ -26,7 +26,7 @@ I love creating interesting and cool things with code. And I love games and anim
 
 
 ### Research
-I am a Master student in Tokyo Institute of Technology and I research mainly on serach based software enginnering, code refactoring and machine learnings.
+I am a Doctoral student in Tokyo Institute of Technology and I research mainly on serach based software enginnering, code refactoring and machine learnings.
 <p align="center">
 <img src="https://github.com/MashiroCl/MashiroCl/blob/main/Images/code_refactoring.png" width="400">
 </p>
